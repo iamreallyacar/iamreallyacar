@@ -2,7 +2,7 @@
 
 Straightforward
 
-![] NULL
+[NULL]
 
 ## 🌐 Socials:
 
